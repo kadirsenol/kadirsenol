@@ -19,6 +19,8 @@
 ###
 
 <div align="left">
+  <img src="https://https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" height="32" alt="dot-net logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo"  />
