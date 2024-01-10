@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I am improving myself in the field of software<br>✉️ Contact me at <a href="(kdrsnl_61@hotmail.com">emkafali@gmail.com</a></p>
+<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I am improving myself in the field of software<br>✉️ Contact me at <a href="(kdrsnl_61@hotmail.com">kdrsnl_61@hotmail.com</a></p>
 
 ###
 
