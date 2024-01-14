@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">former Mechatronics Engineer, current <b>Full-Stack Developer</b></p>
+<p align="left">Former Mechatronics Engineer, current <b>Full-Stack Developer</b></p>
 
 ###
 
