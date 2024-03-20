@@ -89,6 +89,6 @@
 
 
 <div dir="auto"> 
-  <a href="https://api.whatsapp.com/send?phone=905523642361" rel="nofollow"><img src="https://camo.githubusercontent.com/bd8936fd96d865e84b2615fa65d534024a35549c61ed0e04c0cfedca4d34c475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://api.whatsapp.com/send?phone=905523642361" rel="nofollow"><img src="" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="mailto:kdrsnl_61@hotmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/E%20mail-D14836?style=for-the-badge&amp;logo=E%20mail&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
