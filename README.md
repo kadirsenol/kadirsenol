@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 class="markdown-heading" align="left">About me</h2>
 
 ###
 
