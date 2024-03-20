@@ -1,7 +1,8 @@
-<div align="left" dir="auto">
-<h2  class="heading-element" dir="auto">I'm Kadir ŞENOL 👨‍💻</h2>
+<div dir="auto">
 <img src="https://camo.githubusercontent.com/16c6051fe6ecab77013fcb70c60baab58446923eb7954493541a32b7ac8b76e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b4e6963652b746f2b6d6565742b796f75212663656e7465723d66616c73652673697a653d3330" data-canonical-src="lines=Hello,+There!+👋;Nice+to+meet+you!&amp;center=false&amp;size=30" style="max-width: 100%;">
 </div>
+<h2 align="left" class="heading-element" dir="auto">I'm Kadir ŞENOL 👨‍💻</h2>
+
 
 ###
 
