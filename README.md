@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/kadirsenol/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://https://codepen.io/kadirsenol" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="32" alt="codepen logo"  />
-  </a>
 </div>
 
 ###
