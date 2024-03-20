@@ -51,6 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" height="32" alt="react logo"  />
 </div>
 
 ###
