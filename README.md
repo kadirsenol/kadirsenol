@@ -90,5 +90,5 @@
 
 <div dir="auto"> 
   <a href="https://api.whatsapp.com/send?phone=905523642361" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="mailto:kdrsnl_61@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=Email&amp;logoColor=white%22%20style=%22max-width:%20100%" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=Email&amp;logoColor=white%22%20style=%22max-width:%20100%"></a>
+  <a href="mailto:kdrsnl_61@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
