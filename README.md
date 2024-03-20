@@ -1,9 +1,7 @@
-<h2 align="left">Hi 👋 I'm Kadir ŞENOL 👨‍💻</h2>
-
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d343d36ab1883046ceadd9353ec692722ed99cf7a3b41a0e05c5a4913e80db9b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d686173616e797563656c2e686173616e797563656c"><img align="right" src="https://camo.githubusercontent.com/d343d36ab1883046ceadd9353ec692722ed99cf7a3b41a0e05c5a4913e80db9b/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d686173616e797563656c2e686173616e797563656c" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=kadirsenol.kadirsenol" style="max-width: 100%;"></a>
   <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/16c6051fe6ecab77013fcb70c60baab58446923eb7954493541a32b7ac8b76e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b4e6963652b746f2b6d6565742b796f75212663656e7465723d66616c73652673697a653d3330" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&amp;center=false&amp;size=30" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/16c6051fe6ecab77013fcb70c60baab58446923eb7954493541a32b7ac8b76e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b4e6963652b746f2b6d6565742b796f75212663656e7465723d66616c73652673697a653d3330" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+'m+Kadir+ŞENOL+👨‍💻;Nice+to+meet+you!&amp;center=false&amp;size=30" style="max-width: 100%;">
   </a>
 </div>
 
