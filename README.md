@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 class="markdown-heading" align="left">Socials</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 class="markdown-heading" align="left">Stats</h2>
 
 ###
 
@@ -81,4 +81,14 @@
 
 ###
 
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contact &amp; Profiles</h2><a id="user-content-contact--profiles" class="anchor" aria-label="Permalink: Contact &amp; Profiles" href="#contact--profiles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<h2 class="markdown-heading" align="left">Contact</h2>
+
+
+###
+
+
+<div dir="auto"> 
+  <a href="https://api.whatsapp.com/send?phone=905523642361" rel="nofollow"><img src="https://camo.githubusercontent.com/bd8936fd96d865e84b2615fa65d534024a35549c61ed0e04c0cfedca4d34c475/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:kdrsnl_61@hotmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/E%20mail-D14836?style=for-the-badge&amp;logo=E%20mail&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
