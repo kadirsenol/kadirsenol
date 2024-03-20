@@ -1,7 +1,7 @@
 <div dir="auto">
 <img src="https://camo.githubusercontent.com/16c6051fe6ecab77013fcb70c60baab58446923eb7954493541a32b7ac8b76e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b4e6963652b746f2b6d6565742b796f75212663656e7465723d66616c73652673697a653d3330" data-canonical-src="lines=Hello,+There!+👋;Nice+to+meet+you!&amp;center=false&amp;size=30" style="max-width: 100%;">
 </div>
-<h2 align="left" class="heading-element" dir="auto">I'm Kadir ŞENOL 👨‍💻</h2>
+<h2 align="left" class="markdown-heading" dir="auto">I'm Kadir ŞENOL 👨‍💻</h2>
 
 
 ###
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I am improving myself in the field of software<br>✉️ Contact me at <a href="(kdrsnl_61@hotmail.com">kdrsnl_61@hotmail.com</a></p>
+<p align="left">🌍 Based in Istanbul,Turkey <br>📚 I am improving myself in the field of software<br></p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 class="markdown-heading" align="left">Skills</h2>
 
 ###
 
@@ -78,3 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kadirsenol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirsenol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contact &amp; Profiles</h2><a id="user-content-contact--profiles" class="anchor" aria-label="Permalink: Contact &amp; Profiles" href="#contact--profiles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
