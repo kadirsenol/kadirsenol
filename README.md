@@ -38,11 +38,15 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" height="32" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="12" />
