@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo"  />
   <img width="12" />
+  <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" height="32" alt="efcore logo"  />
+  <img width="12" />
   <img src="https://i0.wp.com/restapp.io/wp-content/uploads/2022/04/Logo-Microsoft-SQL-Server.png?fit=395%2C420&ssl=1" height="32" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
@@ -48,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" height="32" alt="node js" />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" height="32" alt="node js" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" height="32" alt="jquery" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="12" />
