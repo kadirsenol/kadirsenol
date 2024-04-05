@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" height="32" alt="node js" />
   <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" height="32" alt="node js" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
