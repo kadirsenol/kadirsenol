@@ -67,6 +67,8 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" height="32" alt="postman logo"  />
   <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1326963467119575041/OTgxd3mt_400x400.jpg" height="32" alt="azuredatasutdio logo"  />
+  <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" height="32" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="32" alt="react logo"  />
