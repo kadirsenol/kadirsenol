@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" height="32" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" height="32" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png" height="32" alt="react logo"  />
@@ -74,6 +76,8 @@
   <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" height="32" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="32" alt="cpp logo"  />
 </div>
 
 ###
