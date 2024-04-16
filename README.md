@@ -69,6 +69,8 @@
   <img width="12" />
   <img src="https://pbs.twimg.com/profile_images/1326963467119575041/OTgxd3mt_400x400.jpg" height="32" alt="azuredatasutdio logo"  />
   <img width="12" />
+  <img src="https://img.site24x7static.com/images/Iis-top-image.png" height="32" alt="azuredatasutdio logo"  />
+  <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" height="32" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" height="32" alt="react logo"  />
