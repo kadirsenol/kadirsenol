@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" height="32" alt="mongo db"  />
   <img width="12" />
+  <img src="https://dbeaver.com/wp-content/uploads/2022/12/cloudbeaver_sm.png" height="32" alt="dbeaver db"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
