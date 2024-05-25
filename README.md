@@ -63,6 +63,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
   <img width="12" />
+  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="32" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" height="32" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" height="32" alt="react logo"  />
