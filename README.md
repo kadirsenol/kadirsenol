@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" height="32" alt="efcore logo"  />
+  <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" height="32" alt="efcore logo"  />
   <img width="12" />
   <img src="https://i0.wp.com/restapp.io/wp-content/uploads/2022/04/Logo-Microsoft-SQL-Server.png?fit=395%2C420&ssl=1" height="32" />
   <img width="12" />
