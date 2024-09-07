@@ -1,9 +1,9 @@
 <div dir="auto">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirsenol&label=Profile%20views&color=0e75b6&style=flat" alt="kadirsenol" /> </p>
-<img src="https://camo.githubusercontent.com/16c6051fe6ecab77013fcb70c60baab58446923eb7954493541a32b7ac8b76e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b4e6963652b746f2b6d6565742b796f75212663656e7465723d66616c73652673697a653d3330" data-canonical-src="lines=Hello,+There!+👋;Nice+to+meet+you!&amp;center=false&amp;size=30" style="max-width: 100%;">
-</div>
-<h2 align="left" class="markdown-heading" dir="auto">I'm Kadir ŞENOL 👨‍💻</h2>
 
+</div>
+
+<h1 align="center">I'm Kadir ŞENOL 👨‍💻</h1>
 
 ###
 
@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png" height="32" alt="node js" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="32" alt="node js" />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" height="32" alt="jquery" />
   <img width="12" />
@@ -63,7 +63,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
   <img width="12" />
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="32" alt="react logo"  />
+  <img src="https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57fe22423d5_React_img1.png" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" height="32" alt="angular"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*hNpbTpVjFsUEzvVCn_3jEg.png" height="32" alt="primeng"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" height="32" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" height="32" alt="git logo"  />
   <img width="12" />
@@ -90,11 +96,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kadirsenol/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/kadirsenol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gençay-yıldız-a1453987/" height="30" width="40" /></a>
 
 ###
 
@@ -103,9 +105,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirsenol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirsenol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kadirsenol&theme=ambient_gradient&show_icons=true" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirsenol&theme=ambient_gradient&layout=compact&langs_count=8&card_width=320" />
+  
 </div>
+
+
 
 ###
 
