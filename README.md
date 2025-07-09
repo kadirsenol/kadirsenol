@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://yt3.googleusercontent.com/bAPgcc0NUsnRyyikb_X6cz4Wdv4vFGZ0PvdAZs6dHgeMjXcau5AM7aFqdFxzP_UBXlbwiBg4=s900-c-k-c0x00ffffff-no-rj" height="32" alt="mui logo"  />
+  <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" height="32" alt="mui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
   <img width="12" />
