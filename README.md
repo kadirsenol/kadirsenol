@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Former Mechatronics Engineer, current <b>Full-Stack Developer</b></p>
+<p align="left">I am <b>Full-Stack Developer</b></p>
 
 ###
 
